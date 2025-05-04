@@ -1,0 +1,4 @@
+#### Kubernetes ####
+# switch namespace
+kswns () { kubectl config set-context --current --namespace="$@"; }
+
