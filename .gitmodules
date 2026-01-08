@@ -1,0 +1,6 @@
+[submodule "bash-configs/kube-ps1"]
+	path = bash-configs/kube-ps1
+	url = https://github.com/jonmosco/kube-ps1.git
+[submodule "bash-configs/kube-aliases"]
+	path = bash-configs/kube-aliases
+	url = https://github.com/ahmetb/kubectl-aliases.git
