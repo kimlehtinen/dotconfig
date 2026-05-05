@@ -2,3 +2,6 @@
 # switch namespace
 kswns () { kubectl config set-context --current --namespace="$@"; }
 
+
+## System
+alias uu='sudo apt update && sudo apt upgrade'
